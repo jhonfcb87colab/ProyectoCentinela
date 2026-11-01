@@ -1,8 +1,8 @@
 # Propuesta Resumen: Proyecto Centinela (Fase 1)
 **Línea Base con Perceptrón Multicapa (MLP) para la Predicción de Producción Frutícola**  
-*Profundización I: Redes Neuronales y Deep Learning*
-*Postgrado: Maestría en Ciencia de Datos (USTA)*  
-*Presentado:* `John Fernando Cruz Becerra`  
+- *Profundización: Redes Neuronales y Deep Learning*
+- *Postgrado: Maestría en Ciencia de Datos (USTA)*  
+- *Presentado:* `John Fernando Cruz Becerra`  
 
 ---
 
